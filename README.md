@@ -1,2 +1,2 @@
 # BasicProgramming
-Basic programming concepts like data structures and algorithms in Pthon
+Basic programming concepts like data structures and algorithms in Python
